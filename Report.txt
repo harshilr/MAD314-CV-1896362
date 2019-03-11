@@ -1,0 +1,36 @@
+STEPS:
+
+1-- Clone intrustion.txt
+	$ git clone https://github.com/richbighouse/mad-314-cv-assignment.git   
+
+2-- clone repository
+	$ git clone https://github.com/harshilr/MAD314-CV-1896362.git
+
+3-- $ git init MAD314-CV-1896362	// To create a git hub repository	
+
+3-- $ cd ..				// To get out of the folder or repository
+
+4-- $ ls				// To see the list of folder or files	
+
+5-- Added instruction.txt to git hub repository
+	$ git add instruction.txt         		  // To add the file
+	$ git commit -m "instruction file is added"  	 // To commit the file
+	$ git push 					// To push the commited file into github
+	$ git status 					// To check the current status of file 
+
+6-- Added harshil resume.pdf to git hub repository
+	$ git add harshil\resume.pdf        		  // To add the file
+	$ git commit -m "CV is added"  			 // To commit the file
+	$ git push 					// To push the commited file into github
+	$ git status 					// To check the current status of file 
+
+7-- $ vi Report.txt			// Created a new file in .txt
+
+
+8- Added Report.txt to git hub repository 
+	$ git add Report.txt         		 	 // To add the file
+	$ git commit -m "report file is added"  	 // To commit the file
+	$ git push 					// To push the commited file into github
+	$ git status 					// To check the current status of file 
+
+
